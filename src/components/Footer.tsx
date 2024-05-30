@@ -27,10 +27,6 @@ export function Footer() {
             <MdEmail className="text-neutral-500 hover:text-white transition-colors duration-300" />
           </a>
         </div>
-
-        <p className="text-sm text-center text-neutral-500 relative z-20 mt-5">
-          Designed by keshav Garg.
-        </p>
       </div>
     </div>
   );
