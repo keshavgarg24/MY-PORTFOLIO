@@ -63,7 +63,7 @@ const dummyContent = [
     description: (
       <ul className="list-disc ml-6">
         <li>
-          Worked for the betterment of society and especially towards the education od underprielged children, went to some charity drives.
+          Worked for the betterment of society and especially towards the education of underprielged children, went to some charity drives.
         </li>
       </ul>
     ),
