@@ -36,6 +36,12 @@ export const projects = [
     link: "https://github.com/keshavgarg24/SWASTHYA-SAHELI",
   },
   {
+    title: "interviewprep.AI",
+    description:
+      "interviewprep.AI -An AI powered mock interview platform where you can attend interviews and practise before your actual interviews and get feedback and score on your answers to improve yourself and ace your actual interview.",
+    link: "https://github.com/keshavgarg24/interviewprep.AI",
+  },
+  {
     title: "Krrypto",
     description:
       "Unmatched Guidance at an Affordable Price. Explore the Future with Krypto - Your Gateway to Comprehensive Crypto Information and Soon, a Hub for Trading, Selling, and Buying Stocks.",
