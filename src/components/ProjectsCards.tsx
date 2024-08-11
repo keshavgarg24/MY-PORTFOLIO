@@ -30,16 +30,22 @@ export function ProjectsCards() {
 }
 export const projects = [
   {
-    title: "Swasthya Saheli",
-    description:
-      "Swasthya Saheli - your trusted virtual health companion! We're here to bridge the gap in women's healthcare with warmth and support. Think of us as your friendly guide, ready to help with early disease detection, provide educational resources, and offer preventive tips. Our personalized chatbot is like a caring friend, always there to listen and assist. Stay informed with the latest research articles and feel empowered to take charge of your health journey.",
-    link: "https://github.com/keshavgarg24/SWASTHYA-SAHELI",
-  },
-  {
     title: "interviewprep.AI",
     description:
       "interviewprep.AI -An AI powered mock interview platform where you can attend interviews and practise before your actual interviews and get feedback and score on your answers to improve yourself and ace your actual interview.",
     link: "https://github.com/keshavgarg24/interviewprep.AI",
+  },
+   {
+    title: "Business Wesbite",
+    description:
+      "I built a webiste for a business named - 'Aggarwal Tent & Caterers' that provides tent and catering services." ,
+    link: "https://github.com/keshavgarg24/Aggarwal-Tent-Caterers",
+  },
+  {
+    title: "Swasthya Saheli",
+    description:
+      "Swasthya Saheli - your trusted virtual health companion! We're here to bridge the gap in women's healthcare with warmth and support. Think of us as your friendly guide, ready to help with early disease detection, provide educational resources, and offer preventive tips. Our personalized chatbot is like a caring friend, always there to listen and assist. Stay informed with the latest research articles and feel empowered to take charge of your health journey.",
+    link: "https://github.com/keshavgarg24/SWASTHYA-SAHELI",
   },
   {
     title: "Krrypto",
@@ -52,12 +58,6 @@ export const projects = [
     description:
       "This is a tic tac toe game made using html , css and js , but it has a new algorithm used in it. it has three modes - two player mode - play with ai -easy and impossible and in impossible mode , minimax algorithm is used to make the user impossible to win the game , it will be either a tie or the ai wins the game .",
     link: "https://github.com/keshavgarg24/actualtictactoe",
-  },
-  {
-    title: "EasyWrite blogs",
-    description:
-      "It is a simple blogging website i made to apply my learnings of next-js taking benefits of its serverless authentication ",
-    link: "https://github.com/keshavgarg24/next-blog-website",
   },
   {
     title: "PdfChit",
