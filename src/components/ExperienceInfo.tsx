@@ -8,11 +8,9 @@ export function ExperienceInfo() {
     <TracingBeam className="">
       <div className="max-w-2xl mx-auto antialiased pt-4 relative">
         {dummyContent.map((item, index) => (
-          <div key={`content-${index}`} className="mb-10">
-            <h2 className={twMerge("bg-black text-white rounded-full text-4xl font-bold w-fit py-2 mb-4", {
-              "mb-4": item.badge // Apply margin if there's a badge
-            })}>
-              {item.badge || "✦ Experience"} {/* Default badge if not provided */}
+          <div key={content-${index}} className="mb-10">
+            <h2 className="bg-black text-white rounded-full text-4xl font-bold w-fit  py-2 mb-4">
+              {item.badge}
             </h2>
 
             <p className={twMerge("text-xl mb-4 px-6 font-bold")}>{item.title}</p>
@@ -33,11 +31,12 @@ const dummyContent = [
     description: (
       <ul className="list-disc ml-6">
         <li>
-          Mitrakriti is a startup working towards green technology with better and innovative ideas, and I am working on making their website from scratch initially using a React codebase with fellow developers.
+       Mintrakriti is a Startup wotking towards green technology with better and innovatie ideas and i am working on making their website from scratch initially using react codebase with fellow developers.
         </li>
       </ul>
     ),
-    badge: "✦ Experience", // Added badge for consistency
+    badge: "✦ Experience",
+    image: "",
   },
   {
     title: "WebStack Academy - Web Development Intern ( Feb 24 - Mar 24 )",
@@ -49,17 +48,19 @@ const dummyContent = [
       </ul>
     ),
     badge: "✦ Experience",
+    image: "",
   },
   {
-    title: "Member at TechXtract, Tech society of CST dept. at MAIT ( Nov 23 - Present )",
+    title: "Member at TechXtract , Tech society of CST dept. at MAIT ( Nov 23 - Present )",
     description: (
       <ul className="list-disc ml-6">
         <li>
-          Helped in organizing various tech events and seminars, also participated in some of them and generally handles photography and discipline department.
+          Helped in organising various tech events and seminars , also participated in some of them and generally handles photography and discipline department.
         </li>
       </ul>
     ),
     badge: "✦ Experience",
+    image: "",
   },
   {
     title: "Member at VF MAIT, NGO",
@@ -71,5 +72,6 @@ const dummyContent = [
       </ul>
     ),
     badge: "✦ Experience",
+    image: "",
   },
 ];
