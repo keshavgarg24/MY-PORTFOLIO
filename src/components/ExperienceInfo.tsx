@@ -47,7 +47,7 @@ const dummyContent = [
         </li>
       </ul>
     ),
-    badge: "✦ Experience",
+    badge: "",
     image: "",
   },
   {
@@ -59,7 +59,7 @@ const dummyContent = [
         </li>
       </ul>
     ),
-    badge: "✦ Experience",
+    badge: "",
     image: "",
   },
   {
@@ -71,7 +71,7 @@ const dummyContent = [
         </li>
       </ul>
     ),
-    badge: "✦ Experience",
+    badge: "",
     image: "",
   },
 ];
