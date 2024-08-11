@@ -27,7 +27,17 @@ export function ExperienceInfo() {
 
 const dummyContent = [
   {
-    title: "WebStack Academy - Web Development Intern",
+    title: "Mitrakriti - Front-End Development Intern ( Aug 24 - Present ) ",
+    description: (
+      <ul className="list-disc ml-6">
+        <li>
+       Mintrakriti is a Startup wotking towards green technology with better and innovatie ideas and i am working on making their website from scratch initially using react codebase with fellow developers.
+        </li>
+      </ul>
+    ),
+  },
+  {
+    title: "WebStack Academy - Web Development Intern ( Feb 24 - Mar 24 )",
     description: (
       <ul className="list-disc ml-6">
         <li>
@@ -39,17 +49,7 @@ const dummyContent = [
     image: "",
   },
   {
-    title: "Campus Ambassador - Zuno by FOUNDIT",
-    description: (
-      <ul className="list-disc ml-6">
-        <li>
-        Engaged as a proactive campus ambassador intern , adept at networking , fostering new connections ,working in team environments while continuously enhancing interpersonal skills and adaptability.
-        </li>
-      </ul>
-    ),
-  },
-  {
-    title: "Member at TechXtract , Tech society of CST dept. at MAIT",
+    title: "Member at TechXtract , Tech society of CST dept. at MAIT ( Nov 23 - Present )",
     description: (
       <ul className="list-disc ml-6">
         <li>
