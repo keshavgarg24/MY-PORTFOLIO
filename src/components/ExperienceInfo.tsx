@@ -43,7 +43,7 @@ const dummyContent = [
     description: (
       <ul className="list-disc ml-6">
         <li>
-         I worked on a job huntig platform where users can apply and post jobs with various filters - "BeyondJob" as a part of this internship.
+         I worked on a job hunting platform where users can apply and post jobs with various filters - "BeyondJob" as a part of this internship.
         </li>
       </ul>
     ),
