@@ -27,7 +27,7 @@ export function ExperienceInfo() {
 
 const dummyContent = [
   {
-    title: "Mitrakriti - Front-End Development Intern ( Aug 24 - Present ) ",
+    title: "Mitrakriti - Front-End Development Intern ( Aug 24 - Sep 24 ) ",
     description: (
       <ul className="list-disc ml-6">
         <li>
@@ -36,6 +36,18 @@ const dummyContent = [
       </ul>
     ),
     badge: "✦ Experience",
+    image: "",
+  },
+  {
+    title: "Suvidha Foundation (Suvidha Mahila Mandal) ( Jun 24 - July 24 )",
+    description: (
+      <ul className="list-disc ml-6">
+        <li>
+         I worked on a job huntig platform where users can apply and post jobs with various filters - "BeyondJob" as a part of this internship.
+        </li>
+      </ul>
+    ),
+    badge: "",
     image: "",
   },
   {
