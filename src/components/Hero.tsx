@@ -85,7 +85,7 @@ export function Hero() {
             </span>
             <div className="relative flex space-x-2 items-center z-10 rounded-full bg-zinc-950 py-0.5 px-4 ring-1 ring-white/10 ">
               <a
-                href="https://drive.google.com/file/d/1xb4oYSD1cuHwa3YJsUzMC30JxDbiHk9v/view?usp=sharing"
+                href="https://drive.google.com/file/d/1NgDF6O55r5F7sJtpuhr6dd3Mmc4sATll/view?usp=share_link"
                 target="_blank"
               >
                 <span>See Resume</span>
