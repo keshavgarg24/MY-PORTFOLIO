@@ -39,7 +39,7 @@ const dummyContent = [
     image: "",
   },
   {
-    title: "Suvidha Foundation (Suvidha Mahila Mandal) ( Jun 24 - July 24 )",
+    title: "Suvidha Foundation (Suvidha Mahila Mandal) - Web Development Intern ( Jun 24 - July 24 )",
     description: (
       <ul className="list-disc ml-6">
         <li>
