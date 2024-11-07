@@ -35,11 +35,17 @@ export const projects = [
       "interviewprep.AI -An AI powered mock interview platform where you can attend interviews and practise before your actual interviews and get feedback and score on your answers to improve yourself and ace your actual interview.",
     link: "https://github.com/keshavgarg24/interviewprep.AI",
   },
-   {
-    title: "Business Wesbite",
+  {
+    title: "padhAI",
     description:
-      "I built a webiste for a business named - 'Aggarwal Tent & Caterers' that provides tent and catering services." ,
-    link: "https://github.com/keshavgarg24/Aggarwal-Tent-Caterers",
+      "padhAI - A revolutionary AI-powered platform that personalizes your learning experience, making it unique, engaging, and tailored to your goals, pace, and style. Break free from traditional learning and take charge of your education with padhAI.",
+    link: "https://github.com/keshavgarg24/padhAI",
+  },
+  {
+    title: "BeyondJob",
+    description:
+      "BeyondJob - A job-hunting platform that bridges the gap between job seekers and recruiters. Users can apply for jobs directly, while recruiters can post listings. The platform provides a streamlined, efficient experience powered by modern technologies.",
+    link: "https://github.com/keshavgarg24/BeyondJob",
   },
   {
     title: "Swasthya Saheli",
@@ -48,22 +54,10 @@ export const projects = [
     link: "https://github.com/keshavgarg24/SWASTHYA-SAHELI",
   },
   {
-    title: "Krrypto",
+    title: "TurboNavigate",
     description:
-      "Unmatched Guidance at an Affordable Price. Explore the Future with Krypto - Your Gateway to Comprehensive Crypto Information and Soon, a Hub for Trading, Selling, and Buying Stocks.",
-    link: "https://github.com/keshavgarg24/krypto",
-  },
-  {
-    title: "GridBattle",
-    description:
-      "This is a tic tac toe game made using html , css and js , but it has a new algorithm used in it. it has three modes - two player mode - play with ai -easy and impossible and in impossible mode , minimax algorithm is used to make the user impossible to win the game , it will be either a tie or the ai wins the game .",
-    link: "https://github.com/keshavgarg24/actualtictactoe",
-  },
-  {
-    title: "PdfChit",
-    description:
-      "Chat with PDFs This Streamlit app allows users to chat with PDF documents. It uses language processing techniques to extract text from PDFs and provide conversational responses to user questions based on the content of the PDFs.",
-    link: "https://github.com/keshavgarg24/chatwithpdf",
+      "TurboNavigate - A high-performance API designed to deliver results in milliseconds. Built with Hono, Upstash-Redis, Next.js, and Cloudflare, it offers fast and efficient query handling for optimal performance.",
+    link: "https://github.com/keshavgarg24/turbonavigate",
   },
   {
     title: "KnowYourCalories",
