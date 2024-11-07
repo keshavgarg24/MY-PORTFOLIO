@@ -3,6 +3,8 @@ import React from "react";
 import { FaLinkedin } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
+import { FaMedium } from "react-icons/fa";
+
 export function Footer() {
   return (
     <div>
@@ -12,9 +14,6 @@ export function Footer() {
         <p className="text-3xl sm:text-5xl font-bold relative z-20 bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-500 py-8">
           Connect with me at :
         </p>
-        {/*
-        Add some icons of linkedin twitter and github here using react icons
-         */}
 
         <div className="flex space-x-4 text-4xl relative z-20">
           <a href="https://www.linkedin.com/in/keshav-garg-5ba250287/" target="_blank">
@@ -25,6 +24,9 @@ export function Footer() {
           </a>
           <a href="mailto:keshgarg24@gmail.com" target="_blank">
             <MdEmail className="text-neutral-500 hover:text-white transition-colors duration-300" />
+          </a>
+          <a href="https://medium.com/@keshavgarg24" target="_blank">
+            <FaMedium className="text-neutral-500 hover:text-white transition-colors duration-300" />
           </a>
         </div>
       </div>
